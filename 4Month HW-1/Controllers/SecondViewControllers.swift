@@ -7,6 +7,7 @@
 
 import UIKit
 
+
 class SecondViewController: UIViewController {
     
     private lazy var myImagee: UIImageView = {
@@ -35,7 +36,5 @@ class SecondViewController: UIViewController {
         ])
         
     }
-
     
-
 }
